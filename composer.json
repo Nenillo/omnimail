@@ -1,5 +1,5 @@
 {
-    "name" : "omnimail/omnimail",
+    "name" : "nenillo/omnimail",
     "type" : "library",
     "description" : "PHP Omnimail",
     "keywords" : [
